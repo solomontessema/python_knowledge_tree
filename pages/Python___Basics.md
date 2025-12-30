@@ -1,0 +1,14 @@
+- #topic [[Python]] Basics
+- What is Python?
+	- An interpreted, dynamically typed language with a focus on readability and batteries-included standard library.
+- Why I use Python
+	- Data analysis
+	- Automation scripts
+	- Prototyping AI/ML ideas
+- Core concepts
+	- [[Python/Variables]]
+	- [[Python/Control Flow]]
+	- [[Python/Imports]]
+	-
+- Understanding variables is fundamental ->see ((69531fe2-2583-4c65-8667-50979a1e710d))
+- public:: true

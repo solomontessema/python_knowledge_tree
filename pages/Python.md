@@ -1,0 +1,10 @@
+- #topic Python
+- A high-level, interpreted programming language focused on readability and productivity.
+- Main areas I care about:
+	- [[Python/Basics]]
+	- [[Python/Data Structures]]
+	- [[Python/Functions]]
+	- [[Python/OOP]]
+	- [[Python/Async]]
+	-
+- public:: true

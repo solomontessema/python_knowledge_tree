@@ -1,0 +1,12 @@
+- #topic [[Python]] Data Structures
+- Built-in types
+	- [[Python/Lists]]
+	- [[Python/Tuples]]
+	- [[Python/Dictionaries]]
+	- [[Python/Sets]]
+- Mental model
+	- Lists: ordered, mutable sequences
+	- Tuples: ordered, immutable sequences
+	- Dicts: key-value mappings
+	- Sets: unordered collections of unique items
+- public:: true
