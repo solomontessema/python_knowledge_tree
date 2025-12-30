@@ -8,11 +8,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
 
       - name: Build Logseq site
-        uses: logseq/publish@v1
+        uses: pengx17/logseq-publish@v0.1.7
         with:
           output-dir: public
 
