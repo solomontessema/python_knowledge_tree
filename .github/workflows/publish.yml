@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Build Logseq site
-        uses: pengx17/logseq-publish@main
+        uses: logseq-publish/logseq-publish@main
         with:
           output-dir: public
 
